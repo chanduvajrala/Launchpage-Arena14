@@ -1,0 +1,23 @@
+body {
+	background: url('http://www.bits-arena.org/2014/img/bg.PNG') center repeat;
+	background-size: cover;
+	font-family: arial, helvetica, sans-serif;
+	margin: 50px auto;
+	padding: 0;
+}
+
+#wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.banner img.arenalogo {
+	width: 370px;
+	padding-left: 30px;
+}
+
+.banner img.bitslogo {
+	height: 120px;
+	right: 30px;
+	position: absolute;
+}
